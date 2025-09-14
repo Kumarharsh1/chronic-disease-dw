@@ -1,0 +1,4 @@
+patient_id,name,age,gender,disease
+1,Rahul,45,Male,Diabetes
+2,Anita,50,Female,Hypertension
+3,Vikram,60,Male,Heart Disease

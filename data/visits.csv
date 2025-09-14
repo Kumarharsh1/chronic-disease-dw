@@ -1,0 +1,4 @@
+visit_id,patient_id,visit_date,diagnosis,treatment
+1,1,2025-01-10,Diabetes,Insulin
+2,2,2025-02-15,Hypertension,Blood Pressure Medicine
+3,3,2025-03-20,Heart Disease,Bypass Surgery
